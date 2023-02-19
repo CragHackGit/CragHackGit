@@ -3,7 +3,8 @@
 ## Вот, что я умею
 Использовать инструменты для тестирования: Jira, DevTools, HTML, CSS, Postman, Selenium, Bugmagnet, Lightshot, Fireshot, Page Ruler, Page Load Time, Apache JMeter.  
 Пользоватсья Git.  
-Java и автоматизация. [Дипломный проект профессии Тестировщик](https://github.com/CragHackGit/Netology_QA_Diploma), [Репортинг: Report Portal](https://github.com/CragHackGit/Netology22Patterns), [Docker](https://github.com/CragHackGit/Netology25Docker), [Page Objects и BDD](https://github.com/CragHackGit/Netology24PageObjects), [Selenide](https://github.com/CragHackGit/Netology21CardDelivery/tree/main), [Тестирование веб-интерфейсов, Selenium и Selenide](https://github.com/CragHackGit/Netology20CardOrder), [Тестирование API](https://github.com/CragHackGit/Netology19PostmanEcho/tree/main), [CI](https://github.com/CragHackGit/CragHackGit-Netology18_API_CI), 
+Java и автоматизация. [Дипломный проект профессии Тестировщик](https://github.com/CragHackGit/Netology_QA_Diploma), [Репортинг: Report Portal](https://github.com/CragHackGit/Netology22Patterns), [Docker](https://github.com/CragHackGit/Netology25Docker), [Page Objects и BDD](https://github.com/CragHackGit/Netology24PageObjects), [Selenide](https://github.com/CragHackGit/Netology21CardDelivery/tree/main), [Тестирование веб-интерфейсов, Selenium и Selenide](https://github.com/CragHackGit/Netology20CardOrder), [Тестирование API](https://github.com/CragHackGit/Netology19PostmanEcho/tree/main), [CI](https://github.com/CragHackGit/CragHackGit-Netology18_API_CI)  
+И другие проекты в [репозитории](https://github.com/CragHackGit?tab=repositories)  
 ## Мои сертификаты Нетологии
 [Тестировщик ПО](https://netology.ru/sharing/3566f5308ad9d98194ee2048d27f82cf?utm_source=social&utm_campaign=achievements)  
 [Дипломны блок профессии Тестировщик](https://netology.ru/sharing/4ff5ce7f72372a1c9e7dfe969403da6c?utm_source=social&utm_campaign=achievements)  
